@@ -1,7 +1,7 @@
 # Lyan Ahmed
-### Systems & Biomedical Software Engineer
+### Biomedical Systems & Software Engineer
 
-Cross-disciplinary engineering student at Cairo University, synthesizing hardware intelligence, full-stack web architectures, and graph-theoretic biological analysis. Specialized in building low-latency assistive systems, processing real-time physical telemetry, and mapping human interactome networks.
+A multi-disciplinary engineer specializing in bridging the gap between software architectures, embedded hardware, and biological data processing. Experienced in developing low-latency IoT devices, building full-stack web applications, and implementing computational signal and data pipelines.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lyan-mohsen-62016b259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6f42c1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,11 +10,21 @@ Cross-disciplinary engineering student at Cairo University, synthesizing hardwar
 
 ---
 
-### Major Laurels & Timelines
+## About Me
+
+I am a **Systems and Biomedical Engineering** student at Cairo University, driven by solving complex, real-world problems through code and hardware. My technical expertise spans across multiple domains, allowing me to build end-to-end engineering solutions:
+
+* **Full-Stack Web Development:** Architecting responsive frontends and scalable backend servers to handle live data workflows.
+* **Embedded Systems & IoT:** Designing firmware, sensor fusion loops, and smart assistive technologies.
+* **Data Science & Signal Processing:** Analyzing biomedical signals, processing complex networks, and extracting actionable insights from biological datasets.
+
+---
+
+## Major Laurels
 
 > **Global Award:** **3rd Place Worldwide Winner** | IEEE CASS Student Design Competition 2026
 > 
-> **Operational Framework:** End-to-end hardware-software co-design and computational optimization completed within the active development cycle (October 14, 2025 – December 1, 2025).
+> *Executed end-to-end hardware-software co-design and optimization within a rigorous development lifecycle.*
 
 ---
 
