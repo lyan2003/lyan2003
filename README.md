@@ -10,6 +10,19 @@ A multi-disciplinary engineer specializing in the synthesis of hardware firmware
 
 ---
 
+## About Me
+
+I am a **Senior Systems and Biomedical Engineering** student at **Cairo University** (Class of 2027). I focus on bridging the gap between hardware execution and software layers, developing end-to-end solutions that solve complex real-world problems. My technical framework moves fluidly between low-level hardware registers, algorithmic digital signal processing, and highly responsive modern web applications.
+
+---
+
+## Major Laurels & Awards
+
+> 🏆 **Global Award:** **3rd Place Worldwide Winner** | IEEE CASS Student Design Competition 2026
+> *Executed the end-to-end software synchronization and mathematical alignment of an IoT-enabled biomechanical assessment system within a strict hardware-software co-design timeline.*
+
+---
+
 ## Technical Matrix & Ecosystems
 
 <table width="100%">
@@ -53,73 +66,97 @@ A multi-disciplinary engineer specializing in the synthesis of hardware firmware
 
 ---
 
-## Major Laurels & Awards
-
-> 🏆 **Global Award:** **3rd Place Worldwide Winner** | IEEE CASS Student Design Competition 2026
-> *Executed the end-to-end software synchronization and mathematical alignment of an IoT-enabled biomechanical assessment system within a strict hardware-software co-design timeline.*
-
----
-
 ## Engineering Portfolio Directory
 
+### 📑 Track 1: Embedded Systems & IoT
 <table width="100%">
   <thead>
     <tr>
-      <th>Ecosystem / Project</th>
-      <th>Technical Stack</th>
+      <th width="30%">Project</th>
+      <th width="25%">Technical Stack</th>
       <th>Core Engineering Innovation</th>
     </tr>
   </thead>
   <tbody>
-    <!-- Project 1 -->
-    <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System">Tennisella: IoT Assessment</a></b></td>
-      <td>Arduino IoT, Node.js, React, Sensors</td>
-      <td>Wearable sensor-fusion (IMU/FSR) framework capturing real-time kinematic acceleration to mitigate joint stress.</td>
-    </tr>
-    <!-- Project 2 -->
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/Distributed-Elevator-STM32">Distributed Elevator Control</a></b></td>
       <td>C, Bare-Metal STM32, SPI IPC, DMA</td>
       <td>Register-level multi-processor safety-critical system with full-duplex SPI IPC, atomic section guards, and zero CPU polling.</td>
     </tr>
-    <!-- Project 3 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System">Tennisella: IoT Assessment</a></b></td>
+      <td>Arduino IoT, Node.js, React, Sensors</td>
+      <td>Wearable sensor-fusion (IMU/FSR) framework capturing real-time kinematic acceleration to mitigate joint stress.</td>
+    </tr>
+  </tbody>
+</table>
+
+### 📊 Track 2: Digital Signal Processing (DSP)
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="25%">Technical Stack</th>
+      <th>Core Engineering Innovation</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/Intelligent-DSP-Studio">Intelligent DSP Equalizer</a></b></td>
       <td>Next.js, FastAPI, Custom FFT Engine</td>
       <td>Acoustic source separation core built completely from scratch, bypassing pre-compiled libraries for real-time harmonic tracking.</td>
     </tr>
-    <!-- Project 4 -->
-    <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/2D-Fourier-Signal-Studio">2D Fourier Signal Studio</a></b></td>
-      <td>React, TypeScript, FastAPI, Python</td>
-      <td>Asynchronous multi-processor 2D image signal modulation separating frontend views from a multi-threaded mathematical backend.</td>
-    </tr>
-    <!-- Project 5 -->
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/Advanced-Multi-Signal-Analytics">Multi-Signal Analytics Studio</a></b></td>
       <td>Next.js, FastAPI, PyTorch, SciPy</td>
       <td>Multi-channel ECG/EEG abnormality diagnostic pipeline using 1D/2D CNNs alongside kinematic Doppler simulators.</td>
     </tr>
-    <!-- Project 6 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/2D-Fourier-Signal-Studio">2D Fourier Signal Studio</a></b></td>
+      <td>React, TypeScript, FastAPI, Python</td>
+      <td>Asynchronous multi-processor 2D image signal modulation separating frontend views from a multi-threaded mathematical backend.</td>
+    </tr>
+  </tbody>
+</table>
+
+### 👁️ Track 3: Computer Vision & Image Processing
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="25%">Technical Stack</th>
+      <th>Core Engineering Innovation</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Image-Processing-Toolkit">CV Image Processing Toolkit</a></b></td>
       <td>C++, Qt Framework, OpenCV Mat</td>
       <td>Spatial/Frequency domain manipulation application executing granular noise models, histogram CDF maps, and hybrid image fusion.</td>
     </tr>
-    <!-- Project 7 -->
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Edge-Shape-Detection">CV Edge & Shape Pipeline</a></b></td>
       <td>C++, Qt Framework, OpenCV Core</td>
       <td>Native mathematical primitive implementations of a 5-step Canny engine, multi-dimensional Hough spaces, and Active Contours (Snakes).</td>
     </tr>
-    <!-- Project 8 -->
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Feature-Extraction">CV Feature Extraction Studio</a></b></td>
       <td>C++, Qt Framework, Numerical Primitives</td>
       <td>Harris Corner Tensor tracking and 128-D SIFT scale-space descriptor matching (SSD/NCC) backed by microsecond-level timers.</td>
     </tr>
-    <!-- Project 9 -->
+  </tbody>
+</table>
+
+### 🧬 Track 4: Computational Biology & Graphs
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="25%">Technical Stack</th>
+      <th>Core Engineering Innovation</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/YOUR_PPI_REPO_NAME">Human PPI Network Pipeline</a></b></td>
       <td>Python, Graph Mathematics, REST APIs</td>
@@ -127,11 +164,3 @@ A multi-disciplinary engineer specializing in the synthesis of hardware firmware
     </tr>
   </tbody>
 </table>
-
----
-
-## Areas of Active Optimization
-
-* **Deterministic Hardware Architecture:** Eliminating timing jitter in bare-metal environments using priority-driven interrupt nested groups.
-* **Low-Level Vision Primitive Optimization:** Structuring cache-friendly image convolution matrices and vectorizing frequency filtering pipelines.
-* **High-Performance Full-Stack Data Loops:** Eliminating UI rendering lags by isolating heavy computational pipelines into decoupled worker states.
