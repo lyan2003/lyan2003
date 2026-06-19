@@ -68,7 +68,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
 
 ## Engineering Portfolio Directory
 
-### ♿ Track 1: Assistive Technology & Bio-Sensors
+### Track 1: Assistive Technology & Bio-Sensors
 <table width="100%">
   <thead>
     <tr>
@@ -79,14 +79,14 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System">Tennisella: IoT Assessment</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Tennisella-Smart-Stroke-Assessment-System.git">Tennisella: IoT Assessment</a></b></td>
       <td>Arduino IoT, Node.js, React, Sensors</td>
       <td>Wearable sensor-fusion (6-axis IMU/FSR) framework capturing real-time kinematic acceleration to monitor tendon stress thresholds and mitigate joint injuries.</td>
     </tr>
   </tbody>
 </table>
 
-### 🛠️ Track 2: Embedded Systems & Register-Level Firmware
+### Track 2: Embedded Systems & Register-Level Firmware
 <table width="100%">
   <thead>
     <tr>
@@ -119,7 +119,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </tbody>
 </table>
 
-### 📊 Track 3: Digital Signal Processing (DSP)
+### Track 3: Digital Signal Processing (DSP)
 <table width="100%">
   <thead>
     <tr>
@@ -140,14 +140,14 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
       <td>Multi-channel ECG/EEG abnormality diagnostic pipeline using 1D/2D CNNs alongside kinematic Doppler simulators.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/2D-Fourier-Signal-Studio">2D Fourier Signal Studio</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/2D-Fourier-Image-Signal-Mixer">2D Fourier Signal Studio</a></b></td>
       <td>React, TypeScript, FastAPI, Python</td>
       <td>Asynchronous multi-processor 2D image signal modulation separating frontend views from a multi-threaded mathematical backend.</td>
     </tr>
   </tbody>
 </table>
 
-### 👁️ Track 4: Computer Vision & Image Processing
+### Track 4: Computer Vision & Image Processing
 <table width="100%">
   <thead>
     <tr>
@@ -185,7 +185,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </tbody>
 </table>
 
-### 🧬 Track 5: Computational Biology & Graphs
+### Track 5: Computational Biology & Graphs
 <table width="100%">
   <thead>
     <tr>
@@ -196,7 +196,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Human-PPI-Network-Pipeline">Human PPI Network Pipeline</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Biomedical-PPI-Network-Graph-Analyzer.git">Human PPI Network Pipeline</a></b></td>
       <td>Python, Graph Mathematics, REST APIs</td>
       <td>Discrete analytical pipeline parsing human Protein-Protein Interaction networks with automated KEGG/UniProt distributed queries.</td>
     </tr>
