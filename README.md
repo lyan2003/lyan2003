@@ -1,7 +1,7 @@
 # Lyan Ahmed
 ### Biomedical Systems & Software Engineer
 
-A multi-disciplinary engineer specializing in bridging the gap between software architectures, embedded hardware, and biological data processing. Experienced in developing low-latency IoT devices, building full-stack web applications, and implementing computational signal and data pipelines.
+A multi-disciplinary engineer specializing in the synthesis of hardware firmware, full-stack software architectures, and computational biological/signal processing algorithms. Experienced in programming register-level embedded systems, building high-throughput data backends, and implementing low-level computer vision pipelines from mathematical primitives.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lyan-mohsen-62016b259/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6f42c1?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -10,85 +10,128 @@ A multi-disciplinary engineer specializing in bridging the gap between software 
 
 ---
 
-## About Me
-
-I am a **Systems and Biomedical Engineering** student at Cairo University, driven by solving complex, real-world problems through code and hardware. My technical expertise spans across multiple domains, allowing me to build end-to-end engineering solutions:
-
-* **Full-Stack Web Development:** Architecting responsive frontends and scalable backend servers to handle live data workflows.
-* **Embedded Systems & IoT:** Designing firmware, sensor fusion loops, and smart assistive technologies.
-* **Data Science & Signal Processing:** Analyzing biomedical signals, processing complex networks, and extracting actionable insights from biological datasets.
-
----
-
-## Major Laurels
-
-> **Global Award:** **3rd Place Worldwide Winner** | IEEE CASS Student Design Competition 2026
-> 
-> *Executed end-to-end hardware-software co-design and optimization within a rigorous development lifecycle.*
-
----
-
-## Core Engineering Paradigms
-
-* **Assistive Biomechanical Systems:** Engineering physical acquisition loops using internal sensor fusion matrices (6-axis IMUs and Force Sensitive Resistors) to extract kinematic acceleration vectors and monitor tendon stress thresholds in real time.
-* **Asynchronous Enterprise Web Layers:** Architecting decoupled full-stack ecosystems utilizing React state optimizations and high-throughput Node.js execution layers to manage continuous telemetry streams.
-* **Network Biology & Data Pipelines:** Applying discrete graph mathematics via Python analytical tools to parse large-scale human Protein-Protein Interaction (PPI) datasets and automate multi-source biological identifier mapping via distributed REST clients.
-
----
-
 ## Technical Matrix & Ecosystems
 
 <table width="100%">
   <tr>
-    <td width="30%"><b>Core Languages</b></td>
+    <td width="25%"><b>Languages & Core</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
     </td>
   </tr>
   <tr>
-    <td><b>IoT & Hardware Firmware</b></td>
+    <td><b>Embedded Hardware</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Arduino_IoT-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-      <img src="https://img.shields.io/badge/ESP32_Firmware-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-      <img src="https://img.shields.io/badge/Sensor_Fusion_IMU%2FFSR-6f42c1?style=flat-square" alt="Sensors" />
+      <img src="https://img.shields.io/badge/STM32_ARM_Cortex-03224C?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+      <img src="https://img.shields.io/badge/Bare_Metal_MCAL-6f42c1?style=flat-square" alt="MCAL" />
+      <img src="https://img.shields.io/badge/SPI_IPC_Protocol-00b4d8?style=flat-square" alt="SPI" />
+      <img src="https://img.shields.io/badge/Arduino_&_ESP32-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
     </td>
   </tr>
   <tr>
-    <td><b>Web Applications & Services</b></td>
+    <td><b>Computer Vision & Desktop</b></td>
     <td>
+      <img src="https://img.shields.io/badge/OpenCV_Matrix-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/Qt_Framework-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
+      <img src="https://img.shields.io/badge/Signal_Processing-FF6F00?style=flat-square" alt="DSP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Analytical Data & Analytics</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NetworkX_Graphs-007ACC?style=flat-square" alt="NetworkX" />
-      <img src="https://img.shields.io/badge/REST_APIs_KEGG%2FUniProt-00b4d8?style=flat-square&logo=postman&logoColor=white" alt="APIs" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Linux" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&white" alt="Vercel" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Validated Engineering Deployments
+## Major Laurels & Awards
 
-### [Tennisella: IoT Smart Stroke Assessment System](https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System)
-* Co-designed an integrated biometric assistive framework tracking real-time acceleration shifts and mechanical force dynamics via an Arduino Nano 33 IoT.
-* Engineered an asynchronous processing backend server using Node.js linked to a reactive Tailwind/Vite dashboard client for dynamic graphical streaming.
-* *Global Award: 3rd Place Worldwide Winner at the IEEE CASS Competition 2026.*
+> 🏆 **Global Award:** **3rd Place Worldwide Winner** | IEEE CASS Student Design Competition 2026
+> *Executed the end-to-end software synchronization and mathematical alignment of an IoT-enabled biomechanical assessment system within a strict hardware-software co-design timeline.*
 
-### [Human PPI Network Topological & Biological Pipeline](https://github.com/lyan-mohsen-62016b259/YOUR_PPI_REPO_NAME)
-* Formulated a discrete computational data pipeline to isolate high-confidence functional hub structures from human Protein-Protein Interaction networks.
-* Integrated live downstream REST clients for automated KEGG Pathway Enrichment and asynchronous UniProt sequence validation mapping.
-* Visualized structural scale-free power-law distributions and directional ego-network topologies across specialized sample nodes.
+---
+
+## Engineering Portfolio Directory
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Ecosystem / Project</th>
+      <th>Technical Stack</th>
+      <th>Core Engineering Innovation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Project 1 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System">Tennisella: IoT Assessment</a></b></td>
+      <td>Arduino IoT, Node.js, React, Sensors</td>
+      <td>Wearable sensor-fusion (IMU/FSR) framework capturing real-time kinematic acceleration to mitigate joint stress.</td>
+    </tr>
+    <!-- Project 2 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Distributed-Elevator-STM32">Distributed Elevator Control</a></b></td>
+      <td>C, Bare-Metal STM32, SPI IPC, DMA</td>
+      <td>Register-level multi-processor safety-critical system with full-duplex SPI IPC, atomic section guards, and zero CPU polling.</td>
+    </tr>
+    <!-- Project 3 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Intelligent-DSP-Studio">Intelligent DSP Equalizer</a></b></td>
+      <td>Next.js, FastAPI, Custom FFT Engine</td>
+      <td>Acoustic source separation core built completely from scratch, bypassing pre-compiled libraries for real-time harmonic tracking.</td>
+    </tr>
+    <!-- Project 4 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/2D-Fourier-Signal-Studio">2D Fourier Signal Studio</a></b></td>
+      <td>React, TypeScript, FastAPI, Python</td>
+      <td>Asynchronous multi-processor 2D image signal modulation separating frontend views from a multi-threaded mathematical backend.</td>
+    </tr>
+    <!-- Project 5 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Advanced-Multi-Signal-Analytics">Multi-Signal Analytics Studio</a></b></td>
+      <td>Next.js, FastAPI, PyTorch, SciPy</td>
+      <td>Multi-channel ECG/EEG abnormality diagnostic pipeline using 1D/2D CNNs alongside kinematic Doppler simulators.</td>
+    </tr>
+    <!-- Project 6 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Image-Processing-Toolkit">CV Image Processing Toolkit</a></b></td>
+      <td>C++, Qt Framework, OpenCV Mat</td>
+      <td>Spatial/Frequency domain manipulation application executing granular noise models, histogram CDF maps, and hybrid image fusion.</td>
+    </tr>
+    <!-- Project 7 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Edge-Shape-Detection">CV Edge & Shape Pipeline</a></b></td>
+      <td>C++, Qt Framework, OpenCV Core</td>
+      <td>Native mathematical primitive implementations of a 5-step Canny engine, multi-dimensional Hough spaces, and Active Contours (Snakes).</td>
+    </tr>
+    <!-- Project 8 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Feature-Extraction">CV Feature Extraction Studio</a></b></td>
+      <td>C++, Qt Framework, Numerical Primitives</td>
+      <td>Harris Corner Tensor tracking and 128-D SIFT scale-space descriptor matching (SSD/NCC) backed by microsecond-level timers.</td>
+    </tr>
+    <!-- Project 9 -->
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/YOUR_PPI_REPO_NAME">Human PPI Network Pipeline</a></b></td>
+      <td>Python, Graph Mathematics, REST APIs</td>
+      <td>Discrete analytical pipeline parsing human Protein-Protein Interaction networks with automated KEGG/UniProt distributed queries.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## Areas of Active Optimization
+
+* **Deterministic Hardware Architecture:** Eliminating timing jitter in bare-metal environments using priority-driven interrupt nested groups.
+* **Low-Level Vision Primitive Optimization:** Structuring cache-friendly image convolution matrices and vectorizing frequency filtering pipelines.
+* **High-Performance Full-Stack Data Loops:** Eliminating UI rendering lags by isolating heavy computational pipelines into decoupled worker states.
