@@ -68,7 +68,25 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
 
 ## Engineering Portfolio Directory
 
-### 📑 Track 1: Embedded Systems & IoT
+### ♿ Track 1: Assistive Technology & Bio-Sensors
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="25%">Technical Stack</th>
+      <th>Core Engineering Innovation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System">Tennisella: IoT Assessment</a></b></td>
+      <td>Arduino IoT, Node.js, React, Sensors</td>
+      <td>Wearable sensor-fusion (6-axis IMU/FSR) framework capturing real-time kinematic acceleration to monitor tendon stress thresholds and mitigate joint injuries.</td>
+    </tr>
+  </tbody>
+</table>
+
+### 🛠️ Track 2: Embedded Systems & Register-Level Firmware
 <table width="100%">
   <thead>
     <tr>
@@ -81,17 +99,27 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
     <tr>
       <td><b><a href="https://github.com/lyan-mohsen-62016b259/Distributed-Elevator-STM32">Distributed Elevator Control</a></b></td>
       <td>C, Bare-Metal STM32, SPI IPC, DMA</td>
-      <td>Register-level multi-processor safety-critical system with full-duplex SPI IPC, atomic section guards, and zero CPU polling.</td>
+      <td>Register-level multi-processor safety-critical system with full-duplex SPI IPC, atomic critical section guards, and zero CPU polling overhead.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Tennisella-Smart-Stroke-Assessment-System">Tennisella: IoT Assessment</a></b></td>
-      <td>Arduino IoT, Node.js, React, Sensors</td>
-      <td>Wearable sensor-fusion (IMU/FSR) framework capturing real-time kinematic acceleration to mitigate joint stress.</td>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Closed-Loop-Temperature-Control">Closed-Loop Temperature Control</a></b></td>
+      <td>C, Bare-Metal STM32F4, PWM, DMA</td>
+      <td>Production-grade thermal regulation firmware featuring autonomous ADC data streaming over DMA and deterministic Mealy State Machine automation layout.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Secure-Keypad-Controller">Secure Keypad Controller</a></b></td>
+      <td>C, Bare-Metal STM32, NVIC Interrupts</td>
+      <td>Secure access hardware solution implementing optimized matrix column-reading, asynchronous doorbell preemption, and high-priority NVIC nested emergency resets.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Embedded-BitPacked-Protocol">Bit-Packed Packet Protocol</a></b></td>
+      <td>Embedded C (C11), MISRA-C guidelines</td>
+      <td>Low-level software foundation library enforcing zero-overhead polymorphic union payloads, custom little-endian memory scanners, and strict const correctness.</td>
     </tr>
   </tbody>
 </table>
 
-### 📊 Track 2: Digital Signal Processing (DSP)
+### 📊 Track 3: Digital Signal Processing (DSP)
 <table width="100%">
   <thead>
     <tr>
@@ -119,7 +147,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </tbody>
 </table>
 
-### 👁️ Track 3: Computer Vision & Image Processing
+### 👁️ Track 4: Computer Vision & Image Processing
 <table width="100%">
   <thead>
     <tr>
@@ -147,7 +175,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </tbody>
 </table>
 
-### 🧬 Track 4: Computational Biology & Graphs
+### 🧬 Track 5: Computational Biology & Graphs
 <table width="100%">
   <thead>
     <tr>
