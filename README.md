@@ -172,6 +172,16 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
       <td>C++, Qt Framework, Numerical Primitives</td>
       <td>Harris Corner Tensor tracking and 128-D SIFT scale-space descriptor matching (SSD/NCC) backed by microsecond-level timers.</td>
     </tr>
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Face-Detection-Eigenfaces">Face Detection & Eigenfaces Studio</a></b></td>
+      <td>C++, Qt Framework, OpenCV Core</td>
+      <td>End-to-end facial feature extraction and dimensionality reduction using Principal Component Analysis (PCA) paired with dynamic ROC evaluation.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Image-Thresholding-Segmentation">Image Segmentation Studio</a></b></td>
+      <td>C++, Qt Framework, OpenCV Mat</td>
+      <td>Intensity-based multi-level thresholding (Otsu/Local Adaptive) and unsupervised matrix clustering (K-Means/Mean Shift/Region Growing).</td>
+    </tr>
   </tbody>
 </table>
 
@@ -186,7 +196,7 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/YOUR_PPI_REPO_NAME">Human PPI Network Pipeline</a></b></td>
+      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Human-PPI-Network-Pipeline">Human PPI Network Pipeline</a></b></td>
       <td>Python, Graph Mathematics, REST APIs</td>
       <td>Discrete analytical pipeline parsing human Protein-Protein Interaction networks with automated KEGG/UniProt distributed queries.</td>
     </tr>
