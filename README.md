@@ -97,22 +97,22 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Distributed-Elevator-STM32">Distributed Elevator Control</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/STM32-Distributed-Dual-Elevator-SPI-IPC-System">Distributed Elevator Control</a></b></td>
       <td>C, Bare-Metal STM32, SPI IPC, DMA</td>
       <td>Register-level multi-processor safety-critical system with full-duplex SPI IPC, atomic critical section guards, and zero CPU polling overhead.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Closed-Loop-Temperature-Control">Closed-Loop Temperature Control</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/STM32-Closed-Loop-Auto-Cooler-Firmware">Closed-Loop Temperature Control</a></b></td>
       <td>C, Bare-Metal STM32F4, PWM, DMA</td>
       <td>Production-grade thermal regulation firmware featuring autonomous ADC data streaming over DMA and deterministic Mealy State Machine automation layout.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Secure-Keypad-Controller">Secure Keypad Controller</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/STM32-Register-Level-Secure-Keypad-Firmware">Secure Keypad Controller</a></b></td>
       <td>C, Bare-Metal STM32, NVIC Interrupts</td>
       <td>Secure access hardware solution implementing optimized matrix column-reading, asynchronous doorbell preemption, and high-priority NVIC nested emergency resets.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Embedded-BitPacked-Protocol">Bit-Packed Packet Protocol</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Embedded-C-Foundation-Library-and-Packet-Protocol">Bit-Packed Packet Protocol</a></b></td>
       <td>Embedded C (C11), MISRA-C guidelines</td>
       <td>Low-level software foundation library enforcing zero-overhead polymorphic union payloads, custom little-endian memory scanners, and strict const correctness.</td>
     </tr>
@@ -130,12 +130,12 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Intelligent-DSP-Studio">Intelligent DSP Equalizer</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Interactive-Signal-Equalizer-DSP-Studio">Intelligent DSP Equalizer</a></b></td>
       <td>Next.js, FastAPI, Custom FFT Engine</td>
       <td>Acoustic source separation core built completely from scratch, bypassing pre-compiled libraries for real-time harmonic tracking.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Advanced-Multi-Signal-Analytics">Multi-Signal Analytics Studio</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Advanced-Multi-Signal-Analytics-DSP-Studio">Multi-Signal Analytics Studio</a></b></td>
       <td>Next.js, FastAPI, PyTorch, SciPy</td>
       <td>Multi-channel ECG/EEG abnormality diagnostic pipeline using 1D/2D CNNs alongside kinematic Doppler simulators.</td>
     </tr>
@@ -158,27 +158,27 @@ I am a **Senior Systems and Biomedical Engineering** student at **Cairo Universi
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Image-Processing-Toolkit">CV Image Processing Toolkit</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Qt-Computer-Vision-Image-Processing-Toolkit">CV Image Processing Toolkit</a></b></td>
       <td>C++, Qt Framework, OpenCV Mat</td>
       <td>Spatial/Frequency domain manipulation application executing granular noise models, histogram CDF maps, and hybrid image fusion.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Edge-Shape-Detection">CV Edge & Shape Pipeline</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Computer-Vision-Edge_Detection">CV Edge & Shape Pipeline</a></b></td>
       <td>C++, Qt Framework, OpenCV Core</td>
       <td>Native mathematical primitive implementations of a 5-step Canny engine, multi-dimensional Hough spaces, and Active Contours (Snakes).</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/CV-Feature-Extraction">CV Feature Extraction Studio</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Image-Feature-Extraction-SIFT-Harris">CV Feature Extraction Studio</a></b></td>
       <td>C++, Qt Framework, Numerical Primitives</td>
       <td>Harris Corner Tensor tracking and 128-D SIFT scale-space descriptor matching (SSD/NCC) backed by microsecond-level timers.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Face-Detection-Eigenfaces">Face Detection & Eigenfaces Studio</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Face-Detection-Recognition-PCA-Studio">Face Detection & Eigenfaces Studio</a></b></td>
       <td>C++, Qt Framework, OpenCV Core</td>
       <td>End-to-end facial feature extraction and dimensionality reduction using Principal Component Analysis (PCA) paired with dynamic ROC evaluation.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/lyan-mohsen-62016b259/Image-Thresholding-Segmentation">Image Segmentation Studio</a></b></td>
+      <td><b><a href="https://github.com/lyan2003/Image-Segmentation-and-Clustering-Toolkit">Image Segmentation Studio</a></b></td>
       <td>C++, Qt Framework, OpenCV Mat</td>
       <td>Intensity-based multi-level thresholding (Otsu/Local Adaptive) and unsupervised matrix clustering (K-Means/Mean Shift/Region Growing).</td>
     </tr>
